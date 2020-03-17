@@ -8,10 +8,13 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "buffer": "^5.5.0",
     "expo": "~36.0.0",
+    "prop-types": "^15.7.2",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react-native-uuid": "^1.4.9",
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {
