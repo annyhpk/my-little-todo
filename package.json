@@ -8,7 +8,6 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "mem": ">=4.0.0",
     "buffer": "^5.5.0",
     "expo": "~36.0.0",
     "prop-types": "^15.7.2",
